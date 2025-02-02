@@ -1,6 +1,7 @@
 import React from "react";
 import InputItem from "./InputItem";
 
+//search section
 const SearchSection = () => {
   return (
     <div className="p-2 md:p-6 border-[2px] rounded-xl">
